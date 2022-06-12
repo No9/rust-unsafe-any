@@ -8,5 +8,4 @@ repository = "https://github.com/reem/rust-unsafe-any"
 license = "MIT"
 
 [dependencies]
-traitobject = "0.1"
-
+destructure_traitobject = "0.2.0"
