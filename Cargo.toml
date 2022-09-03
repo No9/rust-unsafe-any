@@ -1,10 +1,10 @@
 [package]
 
-name = "unsafe-any"
-version = "0.4.2"
-authors = ["Jonathan Reem <jonathan.reem@gmail.com>"]
+name = "unsafe-any-ors"
+version = "1.0.0"
+authors = ["Jonathan Reem <jonathan.reem@gmail.com>", "anton whalley anton@venshare.com"]
 description = "Traits and implementations for unchecked downcasting."
-repository = "https://github.com/reem/rust-unsafe-any"
+repository = "https://github.com/orphanage-rs/rust-unsafe-any"
 license = "MIT"
 
 [dependencies]
