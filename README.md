@@ -1,4 +1,4 @@
-# unsafe-any-ors [![build status](https://github.com/orphanage-rs/rust-unsafe-any/workflows/CI/badge.svg)](https://github.com/orphanage-rs/rust-unsafe-any/actions)
+# unsafe-any-ors [![CI](https://github.com/orphanage-rs/rust-unsafe-any/actions/workflows/general.yaml/badge.svg)](https://github.com/orphanage-rs/rust-unsafe-any/actions/workflows/general.yaml)
 
 > Convenience traits for unsafe downcasting from trait objects to concrete types.
 
